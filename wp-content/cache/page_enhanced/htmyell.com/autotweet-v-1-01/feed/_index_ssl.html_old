@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: AutoTweet V 1.01</title>
+	<atom:link href="https://htmyell.com/autotweet-v-1-01/feed/" rel="self" type="application/rss+xml" />
+	<link>https://htmyell.com/autotweet-v-1-01/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jan 2014 16:27:08 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/autotweet-v-1-01/comment-page-1/#comment-21</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Mon, 10 May 2010 20:33:39 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=192#comment-21</guid>
+		<description><![CDATA[Thanks, I&#039;m glad you liked it :)]]></description>
+		<content:encoded><![CDATA[<p>Thanks, I&#8217;m glad you liked it :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Nuno Melo</title>
+		<link>https://htmyell.com/autotweet-v-1-01/comment-page-1/#comment-19</link>
+		<dc:creator><![CDATA[Nuno Melo]]></dc:creator>
+		<pubDate>Sat, 08 May 2010 18:31:34 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=192#comment-19</guid>
+		<description><![CDATA[Just Installed and works fine...
+Thx 4 this great mod.]]></description>
+		<content:encoded><![CDATA[<p>Just Installed and works fine&#8230;<br />
+Thx 4 this great mod.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 12/25 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: htmyell.com @ 2023-03-10 18:28:40 by W3 Total Cache
+-->

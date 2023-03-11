@@ -1,0 +1,127 @@
+/*
+T?heme Name:         Htmyell - FoundationPress
+Theme URI:          http://foundationpress.olefredrik.com
+Github Theme URI:   https://github.com/olefredrik/FoundationPress
+Description:        FoundationPress is a WordPress starter theme based on Foundation 5 by Zurb
+Version:            5.5.2
+Author:             Ole Fredrik Lie
+Author URI:         http://olefredrik.com/
+
+License:            MIT License
+License URI:        http://www.opensource.org/licenses/mit-license.php
+*/
+
+/* ---------------------------------------------------------------------------- 
+  
+  Unfortunately WordPress will require a style.css file
+  located in the theme's root folder for stuff to work.
+
+  However, we will not be using vanilla CSS. We're using Sass.
+
+  Sass is a superset of CSS that adds in amazing features
+  such as variables, nested selectors and loops. It's also
+  the easiest way to customize Foundation.
+
+  All Sass files are located in the /scss folder.
+
+  Please read the README.md file before getting started. More info on how
+  to use Sass with Foundation can be found here:
+  http://foundation.zurb.com/docs/sass.html
+
+  If you for some reason would like to write plain css instead of using Sass,
+  you could just enqueue this file (style.css) to the header and add your styles in this file
+
+---------------------------------------------------------------------------- */
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,700);
+
+body{ background: rgba(157, 153, 150, 1.0); color: #333; }
+a{color: rgba(128, 125, 122, 1.0); }
+a:hover{color: rgba(128, 125, 122, .5); }
+h1, h2, h3, h4, h5, h6, input, input.button{ font-family: 'Quicksand', sans-serif; }
+
+ul{ list-style: square; margin-left: 2rem; color: rgba(139, 203, 231, 1.0);  }
+ul li span{ color: #333 }
+
+header#logo-container, header#logo-container #logo, footer{
+  margin-bottom: 0;
+  background: rgba(255, 255, 255, 1) url(assets/img/bg-top.jpg) repeat-x scroll 50% 0%;
+  height: auto;
+  text-align: center;
+}
+.top-bar-section ul li a, .top-bar-section li:not(.has-form) a:not(.button){ background: #000; font-family: 'Quicksand', sans-serif; text-transform: uppercase; font-weight: normal;   font-size: 1.25rem;  }
+.top-bar-section>ul>.divider, .top-bar-section>ul>[role="separator"]{ border-right: solid 2px rgba(25, 25, 25, 1) }
+.contain-to-grid{ background: none; }
+.contain-to-grid .top-bar{
+  max-width: 52rem;
+  background: rgba(0, 0, 0, 1);
+  position: relative;
+  right: 21px;
+  top: -2px;
+}
+
+#content{ background: rgba(235, 245, 250, 1); border: solid 2px rgba(0, 0, 0, 1.0);  }
+#leftColumn{ background-color: rgba(255,255,255,1); padding: 2%; border-right: 1px solid #eee }
+aside{ padding: 2% }
+aside h6{ padding: 2%; background: rgba(139, 203, 231, 1.0); font-weight: bold; }
+
+article.post{ margin-bottom: 10% }
+
+.titleBar{
+  background: rgba(0, 0, 0, 1.0);
+  width: 116%;
+}
+
+.titleBar .commentCount{
+    background: rgba(139, 203, 231, 1.0);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2.3125rem;
+    text-align: center;
+}
+
+.titleBar h2, .titleBar h2 a, .commentCount a{
+    margin: 0;
+    color: rgba(255, 255, 255, 1);
+}
+
+.titleBar h2 a{ 
+	padding-left: 2%; 
+	display: block;
+}
+
+.entry-meta{ position: relative; background: rgba(204, 232, 245, 1); padding-left: 3%; font-family: 'Quicksand', sans-serif; font-weight: bold;  }
+.entry-meta .author{ font-weight: bold; }
+.entry-meta time{ position: absolute; right: 3%; top: 0; }
+
+footer.top-bar-container{
+  background: url(assets/img/bg-footer.jpg) repeat-x;
+  margin: 2% 0 -20px;
+  min-height: 108px;
+  text-align: left;
+  font-size: .75rem;
+  color: #666
+}
+footer #megaphone{ margin: -145px 0 0 2%;  }
+footer .icon{ margin: 42px 5px 0; padding: 5px; display: inline-block; width: 40px; height: 40px; background: rgba(139, 203, 231, 1.0); text-align: center; cursor: pointer; }
+footer .icon i{ font-size: 1.875rem; color: #FFFFFF; line-height: 32px; }
+footer .icon:hover{ background: #fff; }
+footer .icon:hover i{ color: rgba(139, 203, 231, 1.0); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,572 @@
+<!doctype html>
+<html class="no-js" lang="en-US"
+	prefix="og: https://ogp.me/ns#"  >
+	<head>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-K8LBR7N');</script>
+		<!-- End Google Tag Manager -->		
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>autoFacebook 2.0 | Htmyell</title>
+		<link rel="icon" href="https://htmyell.com/wp-content/themes/htmyell/assets/img/icons/favicon.png" type="image/x-icon">
+		<meta name="p:domain_verify" content="4b70687dcccf842f96f03cb3d6602871"/>		
+		
+<!-- All in One SEO Pack 3.3.5 by Michael Torbert of Semper Fi Web Design[632,663] -->
+<meta name="description"  content="autoFacebook 2.0 is (finally) here! ◦Added oauth 2.0 authorization to integrate with Facebook&#039;s new Graph API calls. ◦Added Zen Cart integrated error checking" />
+
+<meta name="keywords"  content="goodies" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://htmyell.com/#organization","url":"https://htmyell.com/","name":"Htmyell","sameAs":[]},{"@type":"WebSite","@id":"https://htmyell.com/#website","url":"https://htmyell.com/","name":"Htmyell","publisher":{"@id":"https://htmyell.com/#organization"}},{"@type":"WebPage","@id":"https://htmyell.com/autofacebook-2-0/#webpage","url":"https://htmyell.com/autofacebook-2-0/","inLanguage":"en-US","name":"autoFacebook 2.0","isPartOf":{"@id":"https://htmyell.com/#website"},"datePublished":"2010-08-28T22:35:35+00:00","dateModified":"2013-01-05T23:22:32+00:00","description":"autoFacebook 2.0 is (finally) here!<br /><br />\r\n\u25e6Added oauth 2.0 authorization to integrate with Facebook's new Graph API calls.\r\n<br />\u25e6Added Zen Cart integrated error checking and status alerts."},{"@type":"Article","@id":"https://htmyell.com/autofacebook-2-0/#article","isPartOf":{"@id":"https://htmyell.com/autofacebook-2-0/#webpage"},"author":{"@id":"https://htmyell.com/author/jamielife_JVPT3/#author"},"headline":"autoFacebook 2.0","datePublished":"2010-08-28T22:35:35+00:00","dateModified":"2013-01-05T23:22:32+00:00","commentCount":"9","mainEntityOfPage":{"@id":"https://htmyell.com/autofacebook-2-0/#webpage"},"publisher":{"@id":"https://htmyell.com/#organization"},"articleSection":"Goodies"},{"@type":"Person","@id":"https://htmyell.com/author/jamielife_JVPT3/#author","name":"Jamie Taylor","sameAs":[],"image":{"@type":"ImageObject","@id":"https://htmyell.com/#personlogo","url":"https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=96&d=mm&r=pg","width":96,"height":96,"caption":"Jamie Taylor"}}]}</script>
+<link rel="canonical" href="https://htmyell.com/autofacebook-2-0/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="autoFacebook 2.0 | Htmyell" />
+<meta property="og:description" content="autoFacebook 2.0 is (finally) here! ◦Added oauth 2.0 authorization to integrate with Facebook&#039;s new Graph API calls. ◦Added Zen Cart integrated error checking and status alerts." />
+<meta property="og:url" content="https://htmyell.com/autofacebook-2-0/" />
+<meta property="og:site_name" content="Htmyell" />
+<meta property="og:image" content="https://htmyell.com/wp-content/uploads/2015/11/Htmyell-Logo-2013.png" />
+<meta property="article:published_time" content="2010-08-28T22:35:35Z" />
+<meta property="article:modified_time" content="2013-01-05T23:22:32Z" />
+<meta property="og:image:secure_url" content="https://htmyell.com/wp-content/uploads/2015/11/Htmyell-Logo-2013.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="autoFacebook 2.0 | Htmyell" />
+<meta name="twitter:description" content="autoFacebook 2.0 is (finally) here! ◦Added oauth 2.0 authorization to integrate with Facebook&#039;s new Graph API calls. ◦Added Zen Cart integrated error checking and status alerts." />
+<meta name="twitter:image" content="https://htmyell.com/wp-content/uploads/2015/11/Htmyell-Logo-2013.png" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-15392232-1', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://htmyell.com/wp-content/plugins/download-monitor/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='https://htmyell.com/wp-content/themes/htmyell/css/foundation.css' type='text/css' media='all' />
+<link rel='stylesheet' id='default-stylesheet-css'  href='https://htmyell.com/wp-content/themes/htmyell/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://htmyell.com/wp-content/themes/htmyell/js/vendor/modernizr.js'></script>
+<script type='text/javascript' src='https://htmyell.com/wp-content/themes/htmyell/js/vendor/fastclick.js'></script>
+<link rel='https://api.w.org/' href='https://htmyell.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://htmyell.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhtmyell.com%2Fautofacebook-2-0%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://htmyell.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhtmyell.com%2Fautofacebook-2-0%2F&#038;format=xml" />
+	</head>
+	<body class="post-template-default single single-post postid-460 single-format-standard">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8LBR7N"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->		
+			
+		<div class="off-canvas-wrap" data-offcanvas>
+		<div class="inner-wrap">
+		
+			    <header id="logo-container" class="top-bar-container show-for-medium-up">
+	        <div id="logo" class="">
+	            <a href="/"><img src="https://htmyell.com/wp-content/themes/htmyell/assets/img/header-image.jpg" alt="Htmyell Design & Development Logo" /></a>
+	        </div>
+	    </header>
+		<nav class="tab-bar">
+			<section class="left-small">
+				<a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+			</section>
+			<section class="middle tab-bar-section">
+	
+				<h1 class="title">
+					Htmyell				</h1>
+	
+			</section>
+		</nav>
+	
+		<aside class="left-off-canvas-menu" aria-hidden="true">
+    <ul id="menu-main-menu" class="off-canvas-list"><li id="menu-item-2305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2305"><a title="Htmyell Design &#038; Development" href="/"><i class="fa fa-home"></i></a></li>
+<li id="menu-item-2304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2304"><a href="https://htmyell.com/about/">About</a></li>
+<li id="menu-item-2333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2333"><a href="https://htmyell.com/contact/">Contact</a></li>
+</ul></aside>	
+		<div class="top-bar-container contain-to-grid show-for-medium-up">
+    <nav class="top-bar" data-topbar role="navigation">
+        <!-- <ul class="title-area">
+            <li class="name">
+                <h1><a href="https://htmyell.com">Htmyell</a></h1>
+            </li>
+        </ul>-->
+        <section class="top-bar-section">
+            <ul id="menu-main-menu-1" class="top-bar-menu left"><li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2305"><a title="Htmyell Design &#038; Development" href="/"><i class="fa fa-home"></i></a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2304"><a href="https://htmyell.com/about/">About</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2333"><a href="https://htmyell.com/contact/">Contact</a></li>
+</ul>                    </section>
+    </nav>
+</div>	
+		<section class="container" role="document">
+		
+<div id="content" class="row">
+	<div id="leftColumn" class="small-12 large-8 columns" role="main">
+
+	
+			<article class="post-460 post type-post status-publish format-standard hentry category-goodies" id="post-460">
+			<header>
+				<h1 class="entry-title">autoFacebook 2.0</h1>
+				<p class="byline author">Jamie Taylor</p><time class="updated" datetime="2010-08-28T18:35:35+00:00">August 28, 2010</time>			</header>
+						<div class="entry-content">
+
+			
+			<p>Please note there is an update to this plugin at: <a href="https://htmyell.com/autofacebook-2-1/">https://htmyell.com/autofacebook-2-1/</a></p>
+<h3>autoFacebook 2.0</h3>
+<p><strong>By: Jamie Taylor<br />
+<a href="https://www.htmyell.com">Htmyell.com</a></strong></p>
+<hr />
+<h3>What&#8217;s New:</h3>
+<ul>
+<li>Added oauth 2.0 authorization to integrate with Facebook&#8217;s new Graph API calls.</li>
+<li>Added Zen Cart integrated error checking and status alerts.</li>
+</ul>
+<h3>Requirements:</h3>
+<ul>
+<li>Zencart 1.3.9+</li>
+<li>php 5+</li>
+<li>cURL</li>
+<li>JSON</li>
+</ul>
+<h3>License:</h3>
+<p>This Zen Cart modification is licensed under the GNU General Public License: <a href="http://www.gnu.org/licenses/gpl-3.0.txt">http://www.gnu.org/licenses/gpl-3.0.txt</a></p>
+<h3>Getting Help:</h3>
+<p>Help is available via the Zen Cart forums @ <a href="http://www.zen-cart.com/forum/showthread.php?t=153528">http://www.zen-cart.com/forum/showthread.php?t=153528</a> or at <a href="https://htmyell.com/autofacebook-2-0/">https://htmyell.com/autofacebook-2-0</a></p>
+<hr />
+<h2>Installation:</h2>
+<h3>New Users:</h3>
+<p>1. Log in to your facebook account and go to <a href="http://www.facebook.com/developers">http://www.facebook.com/developers</a> and click the <strong>&#8220;+ Set up New Application&#8221;</strong> button.</p>
+<p>2. Name your application. I suggest something like <strong>&#8220;MyStoreDomain.com&#8221;</strong> but it can be whatever you like. Agree to the terms and click <strong>&#8220;Create Application.&#8221;</strong> On the next page, if required fill in the security check and click <strong>&#8220;Submit.&#8221;</strong><br />
+<em>Note: if an error occurs simply go back you should see your application was created anyway. If so, click &#8220;edit settings&#8221; otherwise, try again.</em></p>
+<p>3. Now you should see your new Application settings. You can come back and edit these later though it&#8217;s not required (I&#8217;d suggest atleast uploading an Icon image once everything is working).</p>
+<p>4. For now we need to click <strong>&#8220;Web Site&#8221;</strong> on the left and edit our <strong>&#8220;Site URL&#8221; </strong>and our <strong>&#8220;Site Domain&#8221;</strong>.<br />
+The Site URL is simply your store&#8217;s web address followed by a <strong>&#8216;/&#8217;</strong> forward slash. So it should look something like <strong>&#8220;http://mystore.com/&#8221;</strong><br />
+Your Site Domain is just your domain name &#8216;dot&#8217; whatever and could look like <strong>&#8220;mystore.com&#8221;</strong>. No <strong>&#8220;http://&#8221;</strong>, no <strong>&#8220;www.&#8221;</strong>, and no <strong>&#8220;/&#8221;</strong></p>
+<p>5. Now click <strong>&#8220;Facebook Integration&#8221;</strong> on the left. Towards the bottom you should see <strong>&#8220;Installable to?&#8221;</strong>. Uncheck <strong>&#8220;Users&#8221;</strong> and add a check next to <strong>&#8220;Facebook Pages&#8221;</strong> instead.</p>
+<p>6. Now click <strong>&#8220;Save Changes&#8221;</strong>. If all goes well you should see your app on the My Applications page, along your app settings. We&#8217;ll need to use the <strong>&#8220;Application ID&#8221;</strong> and <strong>&#8220;Application Secret&#8221;</strong>.</p>
+<p>7. Now that we&#8217;re done with our app open up the included <strong>facebook_authorization.php</strong> file and edit lines 4 and 5 with your App information.<br />
+<em>Note: facebook_authorization.php is a simple file that we&#8217;re going to upload to our server and run from our browser to authorize our application to do things for us like post to our page&#8217;s wall. After if gives us certain information it is no longer needed and should be deleted. </em></p>
+<p>So on line 6 where you see: <span style="color: #008000;">$app_location = &#8220;http://yoursite/facebook/facebook_authorization.php&#8221;;</span> This is simply the URL to where you plan to upload facebook_authorization.php. I suggest making a temporary folder on your folder called &#8220;facebook&#8221;. However, where ever you plan to upload it, it must be on the same server you specified in Step 4 and make sure you reflect it&#8217;s location on line 6. Once you&#8217;re done editing lines 4-6 save and upload it to where ever you specified in your <span style="color: #008000;">$app_location</span>.</p>
+<p>8. Once uploaded run the file in your browser and you will be taken to facebook&#8217;s Permission Request prompt to authorize your app. Click <strong>&#8220;Allow.&#8221;</strong></p>
+<p>9. You should now see a Success page with your <strong>page&#8217;s ID</strong> and <strong>Page&#8217;s Token</strong>. We need those for our next step.<br />
+<em>Note: if you see a period (or any other punctuation) at the end of your page&#8217;s Token consider it part of the token.</em></p>
+<p>10. Open up the included <strong>update_product.php</strong> file in the <strong>admin/includes/modules</strong> folder and edit lines 90 through 97 with your Application Info and the Info given from the last step (Step 9). Note: <span style="color: #008000;">$store_url</span> needs to be the full url to your store without the trailing (&#8216;/&#8217;). So it should look like <strong>&#8220;http://www.mystore.com&#8221;</strong> or <strong>&#8220;http://www.mystore.com/store&#8221;</strong>. Alos: lines 96 and 97 can be personallized or just left as they are.</p>
+<p>11. Now upload the the <strong>new update_procut.php</strong> and the facebook folder to your store&#8217;s <em>admin/includes/modules</em> folder on your server <em>(or just drag the admin folder from autoFacebook2 folder to your zencart root directoy)</em></p>
+<p>12. Now when you add a new product to your store your facebook will automatically be updated with the new product info.<em> Note: you may now delete the facebook_authorization.php uploaded in step 6 as well as the temporary folder from your server.</em></p>
+<h3>Existing Users:</h3>
+<p>If all is fine with your old version of autofacebook, there really isn&#8217;t any major improvements with this version. This version mainly address facebook&#8217;s changing of the user authorization process for people who did not create their application before july 1st.<br />
+However if you want to upgrade be aware of the following:</p>
+<ul>
+<li>You will have to create a new Application since the methods have changed</li>
+<li>I am unable to test this on any live sites running the old version of autoFacebook so to be safe and ensure maximum compatibility:</li>
+</ul>
+<p>1. Delete the &#8220;facebook&#8221; folder in your admin folder.</p>
+<p>2. Start at step 1 for new users.</p>
+<h3>Adding to autoFacebook to autoTweet.</h3>
+<p>to add to autoTweet just complete steps 1 &#8211; 10 but istead of uploading update_product.php copy lines 89 &#8211; 132 of the autoFacebook 2.0 update_product.php and paste them above line 90 (above <strong><em>&#8220;// start autoTweet 3.0&#8221;</em></strong>) of your current update_product.php</p>
+<h3>Adding autoTweet to autoFacebook</h3>
+<p>copy lines 90 &#8211; 157 of your autoTweet update_product.php and paste them just below line 132 (where you see <strong><em>&#8220;//end of autoFacebook&#8221;</em></strong>)</p>
+<hr />
+<p>For more info and to give feedback check the forums.</p>
+<p>Hope ya like it</p>
+<h3>Download:</h3>
+<p>Available for download at <a href="http://www.zen-cart.com/index.php?main_page=product_contrib_info&amp;products_id=1623">Zen-Cart.com</a></p>
+			</div>
+			<footer>
+								<p></p>
+			</footer>
+							<section id="comments">         
+        <h3>9 Responses to &#8220;autoFacebook 2.0&#8221;</h3>
+        <ol class="comment-list">
+         
+             
+        <li class="comment even thread-even depth-1" id="comment-36">
+            <article id="comment-body-36" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/296d8cb3a4c964fa00d152b67a74c3ec?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/296d8cb3a4c964fa00d152b67a74c3ec?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">nachev</cite>			<time datetime="2011-03-06T04:27:37+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-36">March 6, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-36" class="comment">
+                    <p>There is a change in Developement section in Facebook How to proceed with step 5 in your guide &#8211; 5. Now click &#8220;Facebook Integration&#8221; on the left. Towards the bottom you should see &#8220;Installable to?&#8221;. Uncheck &#8220;Users&#8221; and add a check next to &#8220;Facebook Pages&#8221; instead. There is no such option &#8220;Installable to&#8221;</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-36">March 6, 2011 at 4:27 am</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-38">
+            <article id="comment-body-38" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/2255b02e269c4376a7c3c795d98f09ae?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/2255b02e269c4376a7c3c795d98f09ae?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">zanemiester</cite>			<time datetime="2011-05-26T02:08:08+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-38">May 26, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-38" class="comment">
+                    <p>Jamie<br />
+Thanks for a g8 plugin!<br />
+I have combined as per your instrucations facebook and twitter without an issue.<br />
+I wish to also show updated products through this plugin. Are you able to help?<br />
+Also I think being able to set a &#8220;$Tax&#8221;  variable may help with pricing? Just a thought.<br />
+Regards<br />
+Zane</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-38">May 26, 2011 at 2:08 am</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment byuser comment-author-jamielife_JVPT3 bypostauthor even thread-even depth-1" id="comment-39">
+            <article id="comment-body-39" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">Jamie Taylor</cite>			<time datetime="2011-05-27T18:03:51+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-39">May 27, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-39" class="comment">
+                    <p>Facebook changes too often for me to keep up. You should only need to add your domain and url now to complete the app process.</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-39">May 27, 2011 at 6:03 pm</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment byuser comment-author-jamielife_JVPT3 bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-40">
+            <article id="comment-body-40" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">Jamie Taylor</cite>			<time datetime="2011-05-27T18:05:23+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-40">May 27, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-40" class="comment">
+                    <p>I will be adding tax as well as currency soon. in the mean time, i believe there are instruction in the forum for configuring tax.</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-40">May 27, 2011 at 6:05 pm</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment even thread-even depth-1" id="comment-43">
+            <article id="comment-body-43" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/0513851a6cccd2002323b25f7b1f2132?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/0513851a6cccd2002323b25f7b1f2132?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">gbliang</cite>			<time datetime="2011-07-09T04:21:04+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-43">July 9, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-43" class="comment">
+                    <p>first,thank you.i install the plugins ,and when I upload a new product,it show &#8220;Success Facebook was successfully updated!&#8221; on the top of admin area.<br />
+But I can&#8217;t found the product on facebook,can I find it ? and when  I install,I can&#8217;t do step 5,I can&#8217;t find the &#8220;Facebook Integration&#8221;</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-43">July 9, 2011 at 4:21 am</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-66">
+            <article id="comment-body-66" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/6bb8bb171c95efc8f087e899584772cc?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6bb8bb171c95efc8f087e899584772cc?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">ek9rhonda</cite>			<time datetime="2011-09-19T06:08:29+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-66">September 19, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-66" class="comment">
+                    <p>Dear Jamie,</p>
+<p>I face as following error due to update the product, would you please help.</p>
+<p>Facebook Error: (#100) picture URL is not properly formatted</p>
+<p>Cheers,<br />
+Kenny</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-66">September 19, 2011 at 6:08 am</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment even thread-even depth-1" id="comment-68">
+            <article id="comment-body-68" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/78e25f687545affb1742d9f38455397a?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/78e25f687545affb1742d9f38455397a?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">tinnywinny</cite>			<time datetime="2011-10-02T12:17:52+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-68">October 2, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-68" class="comment">
+                    <p>i install the plugins ,and when I upload a new product,it show “Success Facebook was successfully updated!” on the top of admin area.<br />
+ But I can’t found the product on facebook,can I find it ? and when I install,I can’t do step 5,I can’t find the “Facebook Integration”<br />
+plz guide me</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-68">October 2, 2011 at 12:17 pm</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment byuser comment-author-jamielife_JVPT3 bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-72">
+            <article id="comment-body-72" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/031a727d3651b67a78ae84d464503149?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn"><a href='http://twitter.com/htmyell' rel='external nofollow' class='url'>Jamie Taylor</a></cite>			<time datetime="2011-10-25T22:14:14+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-72">October 25, 2011</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-72" class="comment">
+                    <p>Unfortunately facebook changes the development process more often than not. Please try autofacebook lite if you cant get 2.0 to work: <a href="http://htmyell.com/autofacebook-light/" rel="nofollow">http://htmyell.com/autofacebook-light/</a></p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-72">October 25, 2011 at 10:14 pm</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+             
+        <li class="comment even thread-even depth-1" id="comment-132">
+            <article id="comment-body-132" class="comment-body">
+	    
+	    	
+		
+		<header class="comment-author">	
+		
+			<img alt='' src='https://secure.gravatar.com/avatar/b00c276d7cf76cfbc800aa248f563c2d?s=48&#038;d=mm&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b00c276d7cf76cfbc800aa248f563c2d?s=96&#038;d=mm&#038;r=pg 2x' class='avatar avatar-48 photo' height='48' width='48' />			
+			<div class="author-meta vcard author">  
+			
+			<cite class="fn">sammirah</cite>			<time datetime="2014-01-02T11:27:08+00:00"><a href="https://htmyell.com/autofacebook-2-0/#comment-132">January 2, 2014</a></time>
+			
+			</div><!-- /.comment-author -->
+			
+		</header>
+ 
+                <section id="comment-content-132" class="comment">
+                    <p>Hi again Jamie, sorry to be a pain in the butt, I am trying to add auto tweet to auto facebook however there is no (//end of autoFacebook) at line 137 it just continues on the autofacebook updates section which ends at approx. Line 237 and look like this:</p>
+<p>      ////    *END OF PRODUCT-TYPE-SPECIFIC UPDATES* ////////<br />
+      ///////////////////////////////////////////////////////<br />
+    }<br />
+I tried pasting the autoTweet info below there but it isn&#8217;t working (possibly because I don&#8217;t have that set up correctly either as there is no option for </p>
+<p>a. $twitUsername = your twitter user name.</p>
+<p>b. $twitPassword = your twitter password.</p>
+<p>In my autoTweet 3.0 product_update.php file just the info for bit.ly</p>
+                                    </section><!-- /.comment-content -->
+ 
+                <div class="comment-meta comment-meta-data hide">
+                    <a href="https://htmyell.com/autofacebook-2-0/#comment-132">January 2, 2014 at 11:27 am</a>                 </div><!-- /.comment-meta -->
+ 
+                <div class="reply">
+                                    </div><!-- /.reply -->
+            </article><!-- /.comment-body -->
+ 
+             
+        </li><!-- /#comment-' . get_comment_ID() . ' -->
+         
+         
+    </ol><!-- /#comment-list -->
+ 
+    
+ 	</section>
+
+
+					</article>
+	
+	
+	</div>
+	<aside id="sidebar" class="small-12 large-4 columns">
+		<article id="categories-3" class="row widget widget_categories"><div class="small-12 columns"><h6>Categories</h6>		<ul>
+	<li class="cat-item cat-item-3"><a href="https://htmyell.com/category/design/" >Design</a> (2)
+</li>
+	<li class="cat-item cat-item-7"><a href="https://htmyell.com/category/general-info/" >General Info</a> (2)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://htmyell.com/category/goodies/" >Goodies</a> (9)
+</li>
+	<li class="cat-item cat-item-10"><a href="https://htmyell.com/category/photography/" >Photography</a> (1)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://htmyell.com/category/timelapse/" >Timelapse</a> (1)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://htmyell.com/category/tutorials/" >Tutorials</a> (3)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://htmyell.com/category/webdesign/" >Webdesign</a> (2)
+</li>
+		</ul>
+</div></article>		<article id="recent-posts-3" class="row widget widget_recent_entries"><div class="small-12 columns">		<h6>Recent Posts</h6>		<ul>
+											<li>
+					<a href="https://htmyell.com/blast-from-the-past-squirtmusic-com/">Blast From The Past &#8211; Squirtmusic.com!</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/hdr-timelapse-video-shot-in-nags-head-nc/">HDR Timelapse Video shot in Nags Head, NC.</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/autofacebook-2-1/">autoFacebook 2.1</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/adding-positions-to-opencart-theme/">Adding Positions to OpenCart 1.5.1.1 Theme</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/autofacebook-light/">autoFacebook Light Facebook App!</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/autofacebook-2-0/">autoFacebook 2.0</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/autotweet-3-0/">autoTweet 3.0</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/autotweet-2-0-now-available/">autoTweet 2.0 now available</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/creating-playing-cards-with-css-html/">Creating playing cards with CSS &#038; HTML</a>
+									</li>
+											<li>
+					<a href="https://htmyell.com/autofacebookog-open-graph-for-zen-cart/">AutoFacebookOG for Zen Cart.</a>
+									</li>
+					</ul>
+		</div></article><article id="recent-comments-3" class="row widget widget_recent_comments"><div class="small-12 columns"><h6>Recent Comments</h6><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">sammirah</span> on <a href="https://htmyell.com/autofacebook-2-0/comment-page-1/#comment-132">autoFacebook 2.0</a></li><li class="recentcomments"><span class="comment-author-link">sammirah</span> on <a href="https://htmyell.com/autotweet-3-0/comment-page-1/#comment-131">autoTweet 3.0</a></li><li class="recentcomments"><span class="comment-author-link">appletango</span> on <a href="https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-123">Adding Positions to OpenCart 1.5.1.1 Theme</a></li><li class="recentcomments"><span class="comment-author-link">nariman</span> on <a href="https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-122">Adding Positions to OpenCart 1.5.1.1 Theme</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://twitter.com/htmyell' rel='external nofollow' class='url'>Jamie Taylor</a></span> on <a href="https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-117">Adding Positions to OpenCart 1.5.1.1 Theme</a></li></ul></div></article>	</aside></div>
+
+</section>
+    <footer class="top-bar-container show-for-medium-up">
+        <img id="megaphone" src="https://htmyell.com/wp-content/themes/htmyell/assets/img/megaphone.png" alt="Htmyell Megaphone" />
+        <span id="copyright">&copy; 2023 <a href="/">Htmyell Design &amp; Development</a></span>
+    	    	    	    	<a class="icon right" target="_blank" href="https://www.linkedin.com/company/htmyell-design-&-development"><i class="fa fa-linkedin"></i></a>    	
+    	<a class="icon right" target="_blank" href="https://twitter.com/htmyell"><i class="fa fa-twitter"></i></a>    	
+    	<a class="icon right" target="_blank" href="https://www.facebook.com/htmyell"><i class="fa fa-facebook"></i></a>
+    </footer>
+<a class="exit-off-canvas"></a>
+
+		</div>
+</div>
+<script type='text/javascript' src='https://htmyell.com/wp-content/themes/htmyell/js/foundation.js'></script>
+<script type='text/javascript' src='https://htmyell.com/wp-content/themes/htmyell/js/foundation.equalizer.js'></script>
+<script type='text/javascript' src='https://htmyell.com/wp-content/themes/htmyell/js/custom/init-foundation.js'></script>
+<script type='text/javascript' src='https://htmyell.com/wp-includes/js/wp-embed.min.js'></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 13/190 objects using disk
+Page Caching using disk: enhanced 
+Database Caching 13/57 queries in 0.016 seconds using disk
+
+Served from: htmyell.com @ 2023-03-10 16:12:57 by W3 Total Cache
+-->

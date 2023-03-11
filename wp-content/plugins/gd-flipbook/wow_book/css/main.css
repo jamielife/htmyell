@@ -1,0 +1,34 @@
+body.page-two-column:not(.archive) #primary .entry-content{ width: 100% }
+
+/* ==========================================================================
+   custom styles
+   ========================================================================== */
+
+/* hide book to avoid flash of unstyled content */
+.js #book {
+    margin-left: -10000px;
+}
+
+#book.wowbook {
+    /* center horizontally */
+    margin: auto;
+}
+
+.wowbook-controls{
+	border: none;
+	box-shadow: none;	
+	background: transparent; 
+	color: black; 
+}
+
+.wowbook-controls .wowbook-control{
+	box-shadow: none;	
+}
+
+.wowbook-control:hover{
+	background: #ccc;
+}
+
+#flipbook_page{ 
+	overflow: hidden;
+}

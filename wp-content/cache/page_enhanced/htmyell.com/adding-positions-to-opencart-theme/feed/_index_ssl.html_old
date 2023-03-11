@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Adding Positions to OpenCart 1.5.1.1 Theme</title>
+	<atom:link href="https://htmyell.com/adding-positions-to-opencart-theme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://htmyell.com/adding-positions-to-opencart-theme/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jan 2014 16:27:08 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: appletango</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-123</link>
+		<dc:creator><![CDATA[appletango]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2013 11:55:50 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-123</guid>
+		<description><![CDATA[Thanks for the great tutorial, I can confirm that this works fine on 1.5.4 and I implemented it using VQMod so I didn&#039;t have to change the core files directly.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the great tutorial, I can confirm that this works fine on 1.5.4 and I implemented it using VQMod so I didn&#8217;t have to change the core files directly.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: nariman</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-122</link>
+		<dc:creator><![CDATA[nariman]]></dc:creator>
+		<pubDate>Wed, 31 Jul 2013 08:17:20 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-122</guid>
+		<description><![CDATA[I should opencart 1.5.5.1.
+
+An error is @ Fatal error: Class &#039;Controllercommonhomeone&#039; not found in Z: \ home \ oc \ www \ system \ engine \ controller.php on line 41 &quot;
+
+Replaced by class Controllercommonhomeone ControllerCommonHome.
+An error is Fatal error: Cannot redeclare class ControllerCommonHome in / opt / lampp / htdocs / qdent.ru / catalog / controller / common / content_middle.php on line 87.
+
+Adapt the article and please for version opencart 1.5.5.1
+Thanks in advance. Excuse my bad English!]]></description>
+		<content:encoded><![CDATA[<p>I should opencart 1.5.5.1.</p>
+<p>An error is @ Fatal error: Class &#8216;Controllercommonhomeone&#8217; not found in Z: \ home \ oc \ www \ system \ engine \ controller.php on line 41 &#8221;</p>
+<p>Replaced by class Controllercommonhomeone ControllerCommonHome.<br />
+An error is Fatal error: Cannot redeclare class ControllerCommonHome in / opt / lampp / htdocs / qdent.ru / catalog / controller / common / content_middle.php on line 87.</p>
+<p>Adapt the article and please for version opencart 1.5.5.1<br />
+Thanks in advance. Excuse my bad English!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-117</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2013 14:09:20 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-117</guid>
+		<description><![CDATA[I&#039;m not sure, actually... Are all the file names consistent? That seems like a file/class name is off.]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m not sure, actually&#8230; Are all the file names consistent? That seems like a file/class name is off.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: alexmay</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-114</link>
+		<dc:creator><![CDATA[alexmay]]></dc:creator>
+		<pubDate>Tue, 21 May 2013 13:56:43 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-114</guid>
+		<description><![CDATA[Hi! Аirst of all thank you for this fine manual.
+But, I can&#039;t perform it on OC 1.5.4, despite the fact, that I did everything step by step.
+Firstly, you have error in example: “content_middle.php” in line 79,80,82. &quot;home_one.tpl&quot;, but and correctly &quot;content_middle.tpl&quot;
+Secondly, I heve erorr @Fatal error: Class &#039;Controllercommonhomeone&#039; not found in Z:\home\oc\www\system\engine\controller.php on line 41&quot;  I think this is because the class is not called as a controller.
+When, I rename class as controller - nothing happens. Error disappears, but the module not displayed. 
+
+What do you think about this?
+
+Thanks in advance. Excuse my bad English!]]></description>
+		<content:encoded><![CDATA[<p>Hi! Аirst of all thank you for this fine manual.<br />
+But, I can&#8217;t perform it on OC 1.5.4, despite the fact, that I did everything step by step.<br />
+Firstly, you have error in example: “content_middle.php” in line 79,80,82. &#8220;home_one.tpl&#8221;, but and correctly &#8220;content_middle.tpl&#8221;<br />
+Secondly, I heve erorr @Fatal error: Class &#8216;Controllercommonhomeone&#8217; not found in Z:\home\oc\www\system\engine\controller.php on line 41&#8243;  I think this is because the class is not called as a controller.<br />
+When, I rename class as controller &#8211; nothing happens. Error disappears, but the module not displayed. </p>
+<p>What do you think about this?</p>
+<p>Thanks in advance. Excuse my bad English!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: felipe</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-108</link>
+		<dc:creator><![CDATA[felipe]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2013 18:52:47 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-108</guid>
+		<description><![CDATA[Congratulation ... this save me ... :D]]></description>
+		<content:encoded><![CDATA[<p>Congratulation &#8230; this save me &#8230; :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-105</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2013 02:11:23 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-105</guid>
+		<description><![CDATA[Aaaah, thanks for sharing. That&#039;s really helpful!]]></description>
+		<content:encoded><![CDATA[<p>Aaaah, thanks for sharing. That&#8217;s really helpful!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: teeplates</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-104</link>
+		<dc:creator><![CDATA[teeplates]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2013 00:15:26 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-104</guid>
+		<description><![CDATA[If you want to put the new module position inside the header, then you need to modify the controllor for the header. You need to let it know that your new position is a child.
+
+open catalog/controller/common/header.php
+
+find:
+
+		$this-&#062;children = array(
+			&#039;module/language&#039;,
+			&#039;module/currency&#039;,
+			&#039;module/cart&#039;
+		);
+
+change to: 
+
+		$this-&#062;children = array(
+			&#039;common/content_middle&#039;,
+			&#039;module/language&#039;,
+			&#039;module/currency&#039;,
+			&#039;module/cart&#039;
+		);
+
+You can now put this inside your header.tpl:
+
+]]></description>
+		<content:encoded><![CDATA[<p>If you want to put the new module position inside the header, then you need to modify the controllor for the header. You need to let it know that your new position is a child.</p>
+<p>open catalog/controller/common/header.php</p>
+<p>find:</p>
+<p>		$this-&gt;children = array(<br />
+			&#8216;module/language&#8217;,<br />
+			&#8216;module/currency&#8217;,<br />
+			&#8216;module/cart&#8217;<br />
+		);</p>
+<p>change to: </p>
+<p>		$this-&gt;children = array(<br />
+			&#8216;common/content_middle&#8217;,<br />
+			&#8216;module/language&#8217;,<br />
+			&#8216;module/currency&#8217;,<br />
+			&#8216;module/cart&#8217;<br />
+		);</p>
+<p>You can now put this inside your header.tpl:</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: rockkwan</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-100</link>
+		<dc:creator><![CDATA[rockkwan]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2013 13:56:36 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-100</guid>
+		<description><![CDATA[That&#039;s really helped! thanks!]]></description>
+		<content:encoded><![CDATA[<p>That&#8217;s really helped! thanks!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ljubo</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-98</link>
+		<dc:creator><![CDATA[Ljubo]]></dc:creator>
+		<pubDate>Fri, 21 Sep 2012 10:20:24 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-98</guid>
+		<description><![CDATA[hi there, very nice tutorial.
+following it, I have made it to make and put new position to a model.
+thank you.
+
+now, I can position the module to show before or after the header.
+but, what I really wanted to achieve is to position the module  i-n-s-i-d-e  the header.
+I have tried to echo the module in header.tpl file but Warning: Undefined variable... shows up.
+
+is there a solution for this?
+
+yes, I am using Opencart v.1.5.3.1 with custom theme.]]></description>
+		<content:encoded><![CDATA[<p>hi there, very nice tutorial.<br />
+following it, I have made it to make and put new position to a model.<br />
+thank you.</p>
+<p>now, I can position the module to show before or after the header.<br />
+but, what I really wanted to achieve is to position the module  i-n-s-i-d-e  the header.<br />
+I have tried to echo the module in header.tpl file but Warning: Undefined variable&#8230; shows up.</p>
+<p>is there a solution for this?</p>
+<p>yes, I am using Opencart v.1.5.3.1 with custom theme.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ckopnio</title>
+		<link>https://htmyell.com/adding-positions-to-opencart-theme/comment-page-1/#comment-87</link>
+		<dc:creator><![CDATA[ckopnio]]></dc:creator>
+		<pubDate>Sun, 19 Feb 2012 17:15:56 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=941#comment-87</guid>
+		<description><![CDATA[Thank you! I like it really helped!]]></description>
+		<content:encoded><![CDATA[<p>Thank you! I like it really helped!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 13/25 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: htmyell.com @ 2023-03-10 19:43:34 by W3 Total Cache
+-->

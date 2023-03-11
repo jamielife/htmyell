@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: autoTweet 3.0</title>
+	<atom:link href="https://htmyell.com/autotweet-3-0/feed/" rel="self" type="application/rss+xml" />
+	<link>https://htmyell.com/autotweet-3-0/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Jan 2014 16:27:08 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: sammirah</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-131</link>
+		<dc:creator><![CDATA[sammirah]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2014 15:47:51 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-131</guid>
+		<description><![CDATA[Hi Jaime,
+
+I recently downloaded this module from zen cart and I am using version 1.5.1 when I look at the file I see that there isn&#039;t an area to put in my twitter user name and password just bit.ly which in all honesty is confusing me. I went to bit.ly and signed up using my @atmospherebooks from twitter, is that my name.  Also is this mod compatible with ZenCart 1.5.1?]]></description>
+		<content:encoded><![CDATA[<p>Hi Jaime,</p>
+<p>I recently downloaded this module from zen cart and I am using version 1.5.1 when I look at the file I see that there isn&#8217;t an area to put in my twitter user name and password just bit.ly which in all honesty is confusing me. I went to bit.ly and signed up using my @atmospherebooks from twitter, is that my name.  Also is this mod compatible with ZenCart 1.5.1?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-60</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2011 13:08:49 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-60</guid>
+		<description><![CDATA[also you may need to use the hex code for the &#039;pound&#039; symbol as opposed to the actual symbol it&#039;s self.]]></description>
+		<content:encoded><![CDATA[<p>also you may need to use the hex code for the &#8216;pound&#8217; symbol as opposed to the actual symbol it&#8217;s self.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-59</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2011 13:06:20 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-59</guid>
+		<description><![CDATA[Make sure when copying from the web you&#039;re changing the quotes to standard single quotes... a lot of times they copy over as an unrecognized character.]]></description>
+		<content:encoded><![CDATA[<p>Make sure when copying from the web you&#8217;re changing the quotes to standard single quotes&#8230; a lot of times they copy over as an unrecognized character.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ForgetfulGuru</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-58</link>
+		<dc:creator><![CDATA[ForgetfulGuru]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2011 13:02:33 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-58</guid>
+		<description><![CDATA[Hi Jamie, I&#039;m just getting to learn php and was trying your up date to make autotweet show prices +tax, as you posted a few months ago.
+I was wundering did this actually work for the tweets as when I added this to the php file it caused an error? More than likely it was me adding ti wrongly.
+
+I commented out the origional line 
+
+//if ($showprice){ $message .=  &#039; Only £&#039; . $products_price . &#039;.&#039;; }
+
+and replaced it with
+
+if ($showprice){ $message .= ‘ Only £’ . number_format(( $products_price + $products_price * $vat), 2, ‘.’, ”) . ‘!’; }
+It has started to throw up some parse error 6 or 7 at a time All related to line 126, which is the line in the code related to this change. Have I messed things up?
+
+It was all working befor I changed to show prices with TAX
+I will revert back to the origional file and await your answer.]]></description>
+		<content:encoded><![CDATA[<p>Hi Jamie, I&#8217;m just getting to learn php and was trying your up date to make autotweet show prices +tax, as you posted a few months ago.<br />
+I was wundering did this actually work for the tweets as when I added this to the php file it caused an error? More than likely it was me adding ti wrongly.</p>
+<p>I commented out the origional line </p>
+<p>//if ($showprice){ $message .=  &#8216; Only £&#8217; . $products_price . &#8216;.&#8217;; }</p>
+<p>and replaced it with</p>
+<p>if ($showprice){ $message .= ‘ Only £’ . number_format(( $products_price + $products_price * $vat), 2, ‘.’, ”) . ‘!’; }<br />
+It has started to throw up some parse error 6 or 7 at a time All related to line 126, which is the line in the code related to this change. Have I messed things up?</p>
+<p>It was all working befor I changed to show prices with TAX<br />
+I will revert back to the origional file and await your answer.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-54</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2011 13:51:40 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-54</guid>
+		<description><![CDATA[Sorry for the late response. I&#039;m not sure actually, the older version of autotweet (which you can download at: http://www.zen-cart.com/index.php?main_page=product_contrib_info&#038;products_id=1523 and scroll down) should work however, the instructions are outdated as facebook has changed the app process about a dozen time.]]></description>
+		<content:encoded><![CDATA[<p>Sorry for the late response. I&#8217;m not sure actually, the older version of autotweet (which you can download at: <a href="http://www.zen-cart.com/index.php?main_page=product_contrib_info&#038;products_id=1523" rel="nofollow">http://www.zen-cart.com/index.php?main_page=product_contrib_info&#038;products_id=1523</a> and scroll down) should work however, the instructions are outdated as facebook has changed the app process about a dozen time.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ParisWeb</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-49</link>
+		<dc:creator><![CDATA[ParisWeb]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2011 02:34:02 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-49</guid>
+		<description><![CDATA[how do you fix  1980&#039;s is showing up 1980\s.
+
+Is this possible to fix this?]]></description>
+		<content:encoded><![CDATA[<p>how do you fix  1980&#8217;s is showing up 1980\s.</p>
+<p>Is this possible to fix this?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ParisWeb</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-48</link>
+		<dc:creator><![CDATA[ParisWeb]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2011 02:33:03 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-48</guid>
+		<description><![CDATA[Hi One little tiny fix if you can?
+
+1980&#039;s is showing up 1980\s.
+
+Is this possible to fix this?
+
+Thanks :)]]></description>
+		<content:encoded><![CDATA[<p>Hi One little tiny fix if you can?</p>
+<p>1980&#8217;s is showing up 1980\s.</p>
+<p>Is this possible to fix this?</p>
+<p>Thanks :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: lingerieholicnet</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-41</link>
+		<dc:creator><![CDATA[lingerieholicnet]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2011 11:22:32 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-41</guid>
+		<description><![CDATA[Hi Jamie,
+
+Thanks for the addon for Zencart. Just 1 question. Will autotweet work with zencart 1.38a? As I have followed your instructions and it does nothing.
+
+Thanks.]]></description>
+		<content:encoded><![CDATA[<p>Hi Jamie,</p>
+<p>Thanks for the addon for Zencart. Just 1 question. Will autotweet work with zencart 1.38a? As I have followed your instructions and it does nothing.</p>
+<p>Thanks.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jamie Taylor</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-35</link>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+		<pubDate>Thu, 17 Feb 2011 03:19:30 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-35</guid>
+		<description><![CDATA[Yeah, you could multiply it by .whatever the VAT is:
+
+So  if VAT was 8% you would change line 122 to something like:
+
+$vat = .08; 
+if ($showprice){ $message .= &#039; Only $&#039; .  number_format(( $products_price + $products_price * $vat), 2, &#039;.&#039;, &#039;&#039;) . &#039;!&#039;;  }
+
+also you can see that by wrapping the equation in the number_format() function above we&#039;ve ensured that we show and restrict the price to decimals.]]></description>
+		<content:encoded><![CDATA[<p>Yeah, you could multiply it by .whatever the VAT is:</p>
+<p>So  if VAT was 8% you would change line 122 to something like:</p>
+<p>$vat = .08;<br />
+if ($showprice){ $message .= &#8216; Only $&#8217; .  number_format(( $products_price + $products_price * $vat), 2, &#8216;.&#8217;, &#8221;) . &#8216;!&#8217;;  }</p>
+<p>also you can see that by wrapping the equation in the number_format() function above we&#8217;ve ensured that we show and restrict the price to decimals.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Bakedblue</title>
+		<link>https://htmyell.com/autotweet-3-0/comment-page-1/#comment-34</link>
+		<dc:creator><![CDATA[Bakedblue]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2010 21:24:22 +0000</pubDate>
+		<guid isPermaLink="false">https://htmyell.com/?p=430#comment-34</guid>
+		<description><![CDATA[Thanks Jamie.  I&#039;ve just added this to my site and it works great.  Your clear instructions made it really easy.
+
+It&#039;s currently set up to tweet the item price before tax.  Is there a way I can modify the code to show the price with VAT and to restrict the output to two decimal places?]]></description>
+		<content:encoded><![CDATA[<p>Thanks Jamie.  I&#8217;ve just added this to my site and it works great.  Your clear instructions made it really easy.</p>
+<p>It&#8217;s currently set up to tweet the item price before tax.  Is there a way I can modify the code to show the price with VAT and to restrict the output to two decimal places?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2/48 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: htmyell.com @ 2023-03-10 19:43:29 by W3 Total Cache
+-->

@@ -1,0 +1,1 @@
+Jãd<?php exit; ?>a:1:{s:7:"content";s:235:"a:3:{s:64:"stop-spammer-registrations-plugin/stop-spammer-registrations.php";s:21:"kpg_sfs_reg_uninstall";s:27:"ninja-forms/ninja-forms.php";s:21:"ninja_forms_uninstall";s:27:"wp-optimize/wp-optimize.php";s:21:"wpo_uninstall_actions";}";}

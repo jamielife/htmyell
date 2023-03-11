@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Goodies &#8211; Htmyell</title>
+	<atom:link href="https://htmyell.com/category/goodies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://htmyell.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 18 Jun 2020 03:04:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>autoFacebook 2.1</title>
+		<link>https://htmyell.com/autofacebook-2-1/</link>
+		<pubDate>Sat, 05 Jan 2013 23:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=953</guid>
+		<description><![CDATA[<iframe width="100%" height="315" src="https://www.youtube.com/embed/IfW42McTKyE" frameborder="0" allowfullscreen></iframe>]]></description>
+		</item>
+		<item>
+		<title>autoFacebook Light Facebook App!</title>
+		<link>https://htmyell.com/autofacebook-light/</link>
+		<comments>https://htmyell.com/autofacebook-light/#comments</comments>
+		<pubDate>Thu, 30 Sep 2010 06:02:26 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=474</guid>
+		<description><![CDATA[<ul>
+  <li>Added super simple installation!!!</li>
+  <li>Added multipage support!!!</li>
+  <li>Added full currency support for Dollar, Pound, and Euro as well as the ability to not user a money sign!!!</li>
+  <li>Fixed problem with product descriptions not being added to page</li>
+  <li>Added Zen Cart integrated error and status alerts.</li>
+  <li>Added more error checking.</li>
+  <li>Removed need for JSON support.</li>
+</ul>]]></description>
+		<wfw:commentRss>https://htmyell.com/autofacebook-light/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>autoFacebook 2.0</title>
+		<link>https://htmyell.com/autofacebook-2-0/</link>
+		<comments>https://htmyell.com/autofacebook-2-0/#comments</comments>
+		<pubDate>Sat, 28 Aug 2010 22:35:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=460</guid>
+		<description><![CDATA[autoFacebook 2.0 is (finally) here!<br /><br />
+◦Added oauth 2.0 authorization to integrate with Facebook's new Graph API calls.
+<br />◦Added Zen Cart integrated error checking and status alerts.]]></description>
+		<wfw:commentRss>https://htmyell.com/autofacebook-2-0/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>autoTweet 3.0</title>
+		<link>https://htmyell.com/autotweet-3-0/</link>
+		<comments>https://htmyell.com/autotweet-3-0/#comments</comments>
+		<pubDate>Wed, 11 Aug 2010 13:10:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=430</guid>
+		<description><![CDATA[<img src="https://htmyell.com/wp-content/uploads/2010/08/autoTweet3.png" />
+You heard me right... autoTweet 3.0 is now out. I know what you're thinking;
+
+<em>"But Jamie, didn't you just release 2.0 like last week?"</em>]]></description>
+		<wfw:commentRss>https://htmyell.com/autotweet-3-0/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>autoTweet 2.0 now available</title>
+		<link>https://htmyell.com/autotweet-2-0-now-available/</link>
+		<pubDate>Sat, 07 Aug 2010 08:26:33 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=362</guid>
+		<description><![CDATA[Yep another version of autoTweet for Zen Cart. Just thought I&#8217;d share it here until it&#8217;s up at Zen-Cart.com Note: This mod was tested on Zencart 1.3.9a and up although probably works just fine on 1.3.8. This modification automatically updates your Twitter followers every time you add a product to your store. It will tweet [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>AutoFacebookOG for Zen Cart.</title>
+		<link>https://htmyell.com/autofacebookog-open-graph-for-zen-cart/</link>
+		<comments>https://htmyell.com/autofacebookog-open-graph-for-zen-cart/#comments</comments>
+		<pubDate>Fri, 14 May 2010 12:30:31 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=226</guid>
+		<description><![CDATA[<img src="https://htmyell.com/wp-content/uploads/2010/07/afog.jpg" />
+<p>Yep, that's right... yet another social media plug-on for Zen Cart. This one, automatically generates Open Graph Tags in your header. As well all know Open Graph is supposed to be a way of the future. Some people even projecting that it will change the way we use the web. Well Im not sure about that, however, not to be left in the past I created this little bit of script for everyone's favorite e-commerce solution.</p>
+<p>This little bit of code allows you to integrate the new Facebook Open Social Graph API into your store's header info.</p>]]></description>
+		<wfw:commentRss>https://htmyell.com/autofacebookog-open-graph-for-zen-cart/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>AutoTweet V 1.01</title>
+		<link>https://htmyell.com/autotweet-v-1-01/</link>
+		<comments>https://htmyell.com/autotweet-v-1-01/#comments</comments>
+		<pubDate>Wed, 21 Apr 2010 06:03:33 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=192</guid>
+		<description><![CDATA[AutoTweet V 1.01 for Zen Cart 1.3.8 and 1.3.9a.]]></description>
+		<wfw:commentRss>https://htmyell.com/autotweet-v-1-01/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Stylelock</title>
+		<link>https://htmyell.com/stylelock/</link>
+		<pubDate>Mon, 19 Apr 2010 18:03:01 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=181</guid>
+		<description><![CDATA[Remote control your client's web site from your server.]]></description>
+		</item>
+		<item>
+		<title>AutoFacebook for Zen Cart!</title>
+		<link>https://htmyell.com/autofacebook-for-zen-cart/</link>
+		<comments>https://htmyell.com/autofacebook-for-zen-cart/#comments</comments>
+		<pubDate>Sun, 18 Apr 2010 18:34:21 +0000</pubDate>
+		<dc:creator><![CDATA[Jamie Taylor]]></dc:creator>
+				<category><![CDATA[Goodies]]></category>
+
+		<guid isPermaLink="false">https://htmyell.com/?p=142</guid>
+		<description><![CDATA[AutoFacebook automatically updates your store&#8217;s facebook page whenever a new product is added via your admin backend. AutoFacebook is easily integrated with AutoTweet. AutoFacebook is provided up the GNU General Public License without warranty. Note: always back up your files before making any changes to your sore. AutoFacebook has only been tested on zencart 1.3.8 [&#8230;]]]></description>
+		<wfw:commentRss>https://htmyell.com/autofacebook-for-zen-cart/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 13/190 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: htmyell.com @ 2023-03-10 19:44:00 by W3 Total Cache
+-->
