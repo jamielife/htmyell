@@ -60,7 +60,7 @@
 		<?php do_action( 'foundationpress_layout_start' ); ?>
 	    <header id="logo-container" class="top-bar-container show-for-medium-up">
 	        <div id="logo" class="">
-	            <a href="/"><img src="<?php bloginfo( 'template_url' ); ?>/assets/img/header-image.jpg" alt="Htmyell Design & Development Logo" /></a>
+	            <a href="/"><img src="<?php bloginfo( 'template_url' ); ?>/assets/img/header-image.webp" alt="Htmyell Design & Development Logo" /></a>
 	        </div>
 	    </header>
 		<nav class="tab-bar">
