@@ -44,7 +44,7 @@ ul li span{ color: #333 }
 
 header#logo-container, header#logo-container #logo, footer{
   margin-bottom: 0;
-  background: rgba(255, 255, 255, 1) url(assets/img/bg-top.jpg) repeat-x scroll 50% 0%;
+  background: rgba(255, 255, 255, 1) url(assets/img/bg-top.webp) repeat-x scroll 50% 0%;
   height: auto;
   text-align: center;
 }
@@ -93,7 +93,7 @@ article.post{ margin-bottom: 10% }
 .entry-meta time{ position: absolute; right: 3%; top: 0; }
 
 footer.top-bar-container{
-  background: url(assets/img/bg-footer.jpg) repeat-x;
+  background: url(assets/img/bg-footer.webp) repeat-x;
   margin: 2% 0 -20px;
   min-height: 108px;
   text-align: left;
