@@ -15,6 +15,7 @@
     <footer class="top-bar-container show-for-medium-up">
         <img id="megaphone" src="<?php bloginfo( 'template_url' ); ?>/assets/img/megaphone.png" alt="Htmyell Megaphone" />
         <span id="copyright">&copy; <?php echo date('Y'); ?> <a href="/">Htmyell Design &amp; Development</a></span>
+		| <a href="/privacy-policy/">Privacy Policy</a></span>
     	<?php do_action( 'foundationpress_before_footer' ); ?>
     	<?php dynamic_sidebar( 'footer-widgets' ); ?>
     	<?php do_action( 'foundationpress_after_footer' ); ?>
